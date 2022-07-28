@@ -1,0 +1,21 @@
+[debug] [2022-07-28T03:44:46.932Z] ----------------------------------------------------------------------
+[debug] [2022-07-28T03:44:46.934Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Intel\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-07-28T03:44:46.934Z] CLI Version:   11.4.0
+[debug] [2022-07-28T03:44:46.934Z] Platform:      win32
+[debug] [2022-07-28T03:44:46.934Z] Node Version:  v16.13.2
+[debug] [2022-07-28T03:44:46.935Z] Time:          Thu Jul 28 2022 10:44:46 GMT+0700 (เวลาอินโดจีน)
+[debug] [2022-07-28T03:44:46.935Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-28T03:44:46.940Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-28T03:44:46.941Z] > authorizing via signed-in user (hernfhaja3@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\3dvista project\muthita
+
